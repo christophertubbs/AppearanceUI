@@ -24,3 +24,5 @@ be simple applications adds an extra layer of complexity.
 The applications just need to be basic asyncio web apps. Need a gui? Include a view that'll ship out HTML with js that'll return to
 the server for websocket connections and REST requests as needed. Include many HTML views. Include none. It's all up to the 'application'
 developer. The applications need to be simple enough that a novice programmer may put one together.
+
+An example of what _could_ be an AppearanceUI app would be [Yanv](https://github.com/christophertubbs/Yanv).
